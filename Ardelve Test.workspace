@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Ardelve Test" Database="">
+  <Project Name="ARDELVEmk7013" Path="ARDELVEmk7013/ARDELVEmk7013.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Ardelve_GUSTO" ConfigName="Debug"/>
+      <Project Name="Ardelve_MK7013" ConfigName="Debug"/>
+      <Project Name="hello" ConfigName="Debug"/>
+      <Project Name="ARDELVEmk7013" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="Ardelve_GUSTO" ConfigName="Release"/>
+      <Project Name="Ardelve_MK7013" ConfigName="Release"/>
+      <Project Name="hello" ConfigName="Release"/>
+      <Project Name="ARDELVEmk7013" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
